@@ -85,7 +85,7 @@ const handleSubmit = async (e) =>{
   // fetch data from server to get response from bot 
   // A Promise is an object which represents the completion or failure of asychronous operation 
   // We can use await keyword inside the async to wait for the promise  
-  const response = await fetch('http://localhost:5000', {
+  const response = await fetch('https://robs-codex.onrender.com', {
     method: 'POST', 
     headers: {
       'Content-Type':'application/json'
