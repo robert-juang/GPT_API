@@ -17,6 +17,9 @@ Technologies/Packages/Services: Node, Vite, Git, CORS, Express, Vercel, Render, 
 
 ## References 
 Links to the following resources 
+
 [MDN Web_Docs](https://developer.mozilla.org/en-US/)
+
 [Render](https://render.com/)
+
 [Vercel](https://vercel.com/)
