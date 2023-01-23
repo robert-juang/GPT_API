@@ -15,10 +15,6 @@ Languages: Javascript, HTML, CSS
 
 Technologies/Packages/Services: Node, Vite, Git, CORS, Express, Vercel, Render, OpenAI API
 
-## Challenges Faced 🛑
-
-The difficulties of this project stems from connecting the client-side and the server-side. In particular, 
-
 ## References 
 Links to the following resources 
 [MDN Web_Docs](https://developer.mozilla.org/en-US/)
