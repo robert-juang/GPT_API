@@ -13,7 +13,7 @@ I deployed the server side using [Render](https://render.com/) and the client si
 
 Languages: Javascript, HTML, CSS
 
-Technologies/Packages/Services: Node, Vite, Git, CORS, Express, Vercel, Render, OpenAI API
+Technologies/Packages/Services: Node, Npm, Vite, Git, Express, Vercel, Render
 
 ## Demonstration: 
 
